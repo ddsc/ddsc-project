@@ -1,7 +1,4 @@
-ddsc-project
-==========================================
+DDSC (dike data service center) project information
+===================================================
 
-Introduction
-
-Usage, etc.
-
+TODO

@@ -1,4 +1,4 @@
 Credits
 =======
 
-- TODO started this library
+- Reinout started this documentation generation/collection tool.
