@@ -9,5 +9,9 @@ documentation sources; etcetera.
 0.1 (unreleased)
 ----------------
 
+- Started lizard site + app for showing dike data inside lizard.
+
+- Started django site + app for providing the dike data API.
+
 - Added all top-level project requirements as github issues:
   https://github.com/ddsc/ddsc-project/issues?labels=Requirement .
