@@ -17,3 +17,8 @@ For now, here's a list of links.
 
   The organization on github. For repository access, ask
   https://github.com/reinout or https://github.com/berto-nens .
+
+- http://ddsc.github.com/
+
+  The project documentation. (When developing, run
+  ``./update_documentation.sh`` to copy the documentation to github pages.)
