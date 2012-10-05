@@ -1,13 +1,10 @@
-Overview
-########
+.. include:: ../../README.rst
 
-TODO: Short one-paragraph intro.
 
 .. toctree::
    :maxdepth: 2
 
-   code
+   code_organization
    project
 
-
-.. include:: ../../README.rst
+.. include:: ../../CHANGES.rst
