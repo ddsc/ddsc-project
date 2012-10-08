@@ -9,6 +9,10 @@ documentation sources; etcetera.
 0.1 (unreleased)
 ----------------
 
+- Created chef cookbook + supporting scripts for rolling out cassandra
+  servers. The cookbook is hidden in N&S' github repository due to
+  passwords. TODO: export documentation out of these scripts and cookbooks.
+
 - Started lizard site + app for showing dike data inside lizard.
 
 - Started django site + app for providing the dike data API.
