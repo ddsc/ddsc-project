@@ -6,3 +6,5 @@ The two most important links:
 - All technical project documentation is at http://ddsc.github.com
 
 - https://github.com/ddsc is where all the code lives.
+
+- https://sft.fugro.com is where all shared documents live (restricted access only).
