@@ -1,7 +1,7 @@
 DDSC (dike data service center) technical project information
 #############################################################
 
-The two most important links:
+The three most important links:
 
 - All technical project documentation is at http://ddsc.github.com
 
