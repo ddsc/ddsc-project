@@ -9,6 +9,9 @@ documentation sources; etcetera.
 0.1 (unreleased)
 ----------------
 
+- Set up a server with the API django site. For the time being, this is both
+  the incoming and outgoing API.
+
 - Created chef cookbook + supporting scripts for rolling out cassandra
   servers. The cookbook is hidden in N&S' github repository due to
   passwords. TODO: export documentation out of these scripts and cookbooks.
