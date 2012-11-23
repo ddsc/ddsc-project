@@ -9,6 +9,9 @@ documentation sources; etcetera.
 0.1 (unreleased)
 ----------------
 
+- Three sites are now hosted on the web server. http://test.dijkdata.nl,
+  http://test.api.dijkdata.nl and http://test.beheer.dijkdata.nl .
+
 - Set up a server with the API django site. For the time being, this is both
   the incoming and outgoing API.
 
