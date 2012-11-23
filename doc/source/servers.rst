@@ -27,14 +27,13 @@ Three sites are hosted there at the moment:
   experiment. Later on, this can be split over multiple servers if needed.
 
 - The `management site <https://github.com/ddsc/ddsc-management>`_ is at
-http://test.beheer.dijkdata.nl/ .
+  http://test.beheer.dijkdata.nl/ .
 
 - The `front-end Lizard site <https://github.com/ddsc/ddsc-site>`_ is at
   http://test.dijkdata.nl/ .
 
 The ubuntu server also has a Postgres/postgis database locally. Later on, this
 has to be moved to a separate machine.
-
 
 
 RabbitMQ
